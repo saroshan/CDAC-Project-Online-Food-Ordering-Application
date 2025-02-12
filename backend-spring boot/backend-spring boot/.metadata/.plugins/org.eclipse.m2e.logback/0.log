@@ -1,0 +1,512 @@
+2025-01-28 09:51:35,566 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-01-28 10:07:19,285 [Worker-4: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project spring_boot_backend_template already exists
+2025-01-28 10:07:32,166 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Auction:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Auction\pom.xml.
+2025-01-28 10:07:33,320 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day16_boot:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day16-data\code\day16_boot\pom.xml.
+2025-01-28 10:07:34,190 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day16_boot2:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day16-data\code\day16_boot2\pom.xml.
+2025-01-28 10:07:34,451 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day16_lab:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day16_lab\pom.xml.
+2025-01-28 10:07:34,699 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day17.1:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\For STS 3\day17.1\pom.xml.
+2025-01-28 10:07:34,958 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day17_lab_REST:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\For STS 4\day17_lab_REST\pom.xml.
+2025-01-28 10:07:35,859 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring_boot_backend_template:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\REST template project for STS 3\spring_boot_backend_template\pom.xml.
+2025-01-28 10:07:36,293 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-ui/1.7.0/springdoc-openapi-ui-1.7.0.pom
+2025-01-28 10:07:36,317 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-ui/1.7.0/springdoc-openapi-ui-1.7.0.pom
+2025-01-28 10:07:36,347 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi/1.7.0/springdoc-openapi-1.7.0.pom
+2025-01-28 10:07:36,363 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi/1.7.0/springdoc-openapi-1.7.0.pom
+2025-01-28 10:07:36,394 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.7.10/spring-boot-starter-parent-2.7.10.pom
+2025-01-28 10:07:36,404 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.7.10/spring-boot-starter-parent-2.7.10.pom
+2025-01-28 10:07:36,424 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.7.10/spring-boot-dependencies-2.7.10.pom
+2025-01-28 10:07:36,470 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.7.10/spring-boot-dependencies-2.7.10.pom
+2025-01-28 10:07:36,499 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.2.18/metrics-bom-4.2.18.pom
+2025-01-28 10:07:36,507 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.2.18/metrics-bom-4.2.18.pom
+2025-01-28 10:07:36,528 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.2.18/metrics-parent-4.2.18.pom
+2025-01-28 10:07:36,539 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.2.18/metrics-parent-4.2.18.pom
+2025-01-28 10:07:36,564 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/3.0.16/groovy-bom-3.0.16.pom
+2025-01-28 10:07:36,574 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/3.0.16/groovy-bom-3.0.16.pom
+2025-01-28 10:07:36,594 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/13.0.15.Final/infinispan-bom-13.0.15.Final.pom
+2025-01-28 10:07:36,606 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/13.0.15.Final/infinispan-bom-13.0.15.Final.pom
+2025-01-28 10:07:36,625 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/13.0.15.Final/infinispan-build-configuration-parent-13.0.15.Final.pom
+2025-01-28 10:07:36,636 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/13.0.15.Final/infinispan-build-configuration-parent-13.0.15.Final.pom
+2025-01-28 10:07:36,670 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.51.v20230217/jetty-bom-9.4.51.v20230217.pom
+2025-01-28 10:07:36,679 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.51.v20230217/jetty-bom-9.4.51.v20230217.pom
+2025-01-28 10:07:36,709 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.9.9/micrometer-bom-1.9.9.pom
+2025-01-28 10:07:36,717 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.9.9/micrometer-bom-1.9.9.pom
+2025-01-28 10:07:36,745 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.90.Final/netty-bom-4.1.90.Final.pom
+2025-01-28 10:07:36,752 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.90.Final/netty-bom-4.1.90.Final.pom
+2025-01-28 10:07:36,789 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.30/reactor-bom-2020.0.30.pom
+2025-01-28 10:07:36,795 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.30/reactor-bom-2020.0.30.pom
+2025-01-28 10:07:36,817 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2021.2.10/spring-data-bom-2021.2.10.pom
+2025-01-28 10:07:36,832 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2021.2.10/spring-data-bom-2021.2.10.pom
+2025-01-28 10:07:36,852 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.26/spring-framework-bom-5.3.26.pom
+2025-01-28 10:07:36,859 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.26/spring-framework-bom-5.3.26.pom
+2025-01-28 10:07:36,878 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.5.17/spring-integration-bom-5.5.17.pom
+2025-01-28 10:07:36,886 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.5.17/spring-integration-bom-5.5.17.pom
+2025-01-28 10:07:36,905 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.7.7/spring-security-bom-5.7.7.pom
+2025-01-28 10:07:36,912 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.7.7/spring-security-bom-5.7.7.pom
+2025-01-28 10:07:36,931 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/2021.2.1/spring-session-bom-2021.2.1.pom
+2025-01-28 10:07:36,941 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/2021.2.1/spring-session-bom-2021.2.1.pom
+2025-01-28 10:07:36,962 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-webmvc-core/1.7.0/springdoc-openapi-webmvc-core-1.7.0.pom
+2025-01-28 10:07:36,971 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-webmvc-core/1.7.0/springdoc-openapi-webmvc-core-1.7.0.pom
+2025-01-28 10:07:37,010 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-common/1.7.0/springdoc-openapi-common-1.7.0.pom
+2025-01-28 10:07:37,017 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-common/1.7.0/springdoc-openapi-common-1.7.0.pom
+2025-01-28 10:07:37,044 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-core/2.2.9/swagger-core-2.2.9.pom
+2025-01-28 10:07:37,051 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-core/2.2.9/swagger-core-2.2.9.pom
+2025-01-28 10:07:37,074 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-project/2.2.9/swagger-project-2.2.9.pom
+2025-01-28 10:07:37,096 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-project/2.2.9/swagger-project-2.2.9.pom
+2025-01-28 10:07:37,136 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.5/jackson-dataformat-yaml-2.13.5.pom
+2025-01-28 10:07:37,143 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.5/jackson-dataformat-yaml-2.13.5.pom
+2025-01-28 10:07:37,165 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.13.5/jackson-dataformats-text-2.13.5.pom
+2025-01-28 10:07:37,172 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.13.5/jackson-dataformats-text-2.13.5.pom
+2025-01-28 10:07:37,196 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.2.9/swagger-annotations-2.2.9.pom
+2025-01-28 10:07:37,204 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.2.9/swagger-annotations-2.2.9.pom
+2025-01-28 10:07:37,235 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.2.9/swagger-models-2.2.9.pom
+2025-01-28 10:07:37,241 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.2.9/swagger-models-2.2.9.pom
+2025-01-28 10:07:37,274 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/swagger-ui/4.18.2/swagger-ui-4.18.2.pom
+2025-01-28 10:07:37,281 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/swagger-ui/4.18.2/swagger-ui-4.18.2.pom
+2025-01-28 10:07:37,501 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-ui/1.7.0/springdoc-openapi-ui-1.7.0.jar
+2025-01-28 10:07:37,511 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-ui/1.7.0/springdoc-openapi-ui-1.7.0.jar
+2025-01-28 10:07:37,528 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-core/2.2.9/swagger-core-2.2.9.jar
+2025-01-28 10:07:37,565 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-core/2.2.9/swagger-core-2.2.9.jar
+2025-01-28 10:07:37,566 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.5/jackson-dataformat-yaml-2.13.5.jar
+2025-01-28 10:07:37,582 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.2.9/swagger-models-2.2.9.jar
+2025-01-28 10:07:37,587 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.5/jackson-dataformat-yaml-2.13.5.jar
+2025-01-28 10:07:37,601 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/swagger-ui/4.18.2/swagger-ui-4.18.2.jar
+2025-01-28 10:07:37,607 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.2.9/swagger-models-2.2.9.jar
+2025-01-28 10:07:37,770 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-common/1.7.0/springdoc-openapi-common-1.7.0.jar
+2025-01-28 10:07:37,819 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-webmvc-core/1.7.0/springdoc-openapi-webmvc-core-1.7.0.jar
+2025-01-28 10:07:37,821 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.2.9/swagger-annotations-2.2.9.jar
+2025-01-28 10:07:37,878 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.2.9/swagger-annotations-2.2.9.jar
+2025-01-28 10:07:37,894 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-webmvc-core/1.7.0/springdoc-openapi-webmvc-core-1.7.0.jar
+2025-01-28 10:07:38,097 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-common/1.7.0/springdoc-openapi-common-1.7.0.jar
+2025-01-28 10:07:38,225 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/swagger-ui/4.18.2/swagger-ui-4.18.2.jar
+2025-01-28 10:07:38,396 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day18.1:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day18-data\code\day18.1\pom.xml.
+2025-01-28 10:07:38,652 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day18.2:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day18-data\code\day18.2\pom.xml.
+2025-01-28 10:07:38,903 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day18.3:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day18-lab-data\day18.3\pom.xml.
+2025-01-28 10:07:39,106 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:day12.1:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\day12.1\pom.xml.
+2025-01-28 10:07:39,242 [Worker-4: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-01-28 10:07:39,390 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day19.1:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\day19.1\pom.xml.
+2025-01-28 10:07:39,650 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day19.2:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\day19.2\pom.xml.
+2025-01-28 10:07:39,889 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iacsd:products-api:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\spring security projects\products-api\pom.xml.
+2025-01-28 10:07:40,105 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iacsd:products-api1:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\spring security projects\products-api1\pom.xml.
+2025-01-28 10:07:40,351 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iacsd:products-api2_new:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\spring security projects\products-api2_new\pom.xml.
+2025-01-28 10:07:40,575 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Demo:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Demo\pom.xml.
+2025-01-28 10:07:41,142 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:IPLREST:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\IPLREST\pom.xml.
+2025-01-28 10:07:41,313 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Patient:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Patient\pom.xml.
+2025-01-28 10:07:41,489 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Patientmgs:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Patientmgs\pom.xml.
+2025-01-28 10:07:41,719 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:spring_boot_template_mvc:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\spring_boot_template_mvc\pom.xml.
+2025-01-28 10:07:41,921 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Student:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Student\pom.xml.
+2025-01-28 10:07:42,120 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Studentmgs:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Studentmgs\pom.xml.
+2025-01-28 10:07:42,286 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cdac:test_spring:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\test_spring\pom.xml.
+2025-01-28 10:07:42,390 [Worker-4: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-01-28 10:07:42,518 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day16_lab:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day16_lab\pom.xml.
+2025-01-28 10:07:42,642 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day16_boot2:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day16-data\code\day16_boot2\pom.xml.
+2025-01-28 10:07:42,746 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day16_boot:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day16-data\code\day16_boot\pom.xml.
+2025-01-28 10:07:42,856 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring_boot_backend_template:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\REST template project for STS 3\spring_boot_backend_template\pom.xml.
+2025-01-28 10:07:42,976 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day17.1:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\For STS 3\day17.1\pom.xml.
+2025-01-28 10:07:43,085 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Auction:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Auction\pom.xml.
+2025-01-28 10:07:43,211 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day17_lab_REST:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\For STS 4\day17_lab_REST\pom.xml.
+2025-01-28 10:07:57,162 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-ui/1.7.0/springdoc-openapi-ui-1.7.0-sources.jar
+2025-01-28 10:07:57,168 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-ui/1.7.0/springdoc-openapi-ui-1.7.0-sources.jar
+2025-01-28 10:07:57,175 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springdoc:springdoc-openapi-ui:1.7.0
+2025-01-28 10:07:57,318 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-webmvc-core/1.7.0/springdoc-openapi-webmvc-core-1.7.0-sources.jar
+2025-01-28 10:07:57,338 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-webmvc-core/1.7.0/springdoc-openapi-webmvc-core-1.7.0-sources.jar
+2025-01-28 10:07:57,346 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springdoc:springdoc-openapi-webmvc-core:1.7.0
+2025-01-28 10:07:57,463 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-common/1.7.0/springdoc-openapi-common-1.7.0-sources.jar
+2025-01-28 10:07:57,566 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springdoc/springdoc-openapi-common/1.7.0/springdoc-openapi-common-1.7.0-sources.jar
+2025-01-28 10:07:57,571 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springdoc:springdoc-openapi-common:1.7.0
+2025-01-28 10:07:57,704 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-core/2.2.9/swagger-core-2.2.9-sources.jar
+2025-01-28 10:07:57,746 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-core/2.2.9/swagger-core-2.2.9-sources.jar
+2025-01-28 10:07:57,752 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger.core.v3:swagger-core:2.2.9
+2025-01-28 10:07:57,910 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.5/jackson-dataformat-yaml-2.13.5-sources.jar
+2025-01-28 10:07:57,970 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.5/jackson-dataformat-yaml-2.13.5-sources.jar
+2025-01-28 10:07:57,998 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.13.5
+2025-01-28 10:07:58,172 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.2.9/swagger-annotations-2.2.9-sources.jar
+2025-01-28 10:07:58,218 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-annotations/2.2.9/swagger-annotations-2.2.9-sources.jar
+2025-01-28 10:07:58,227 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger.core.v3:swagger-annotations:2.2.9
+2025-01-28 10:07:58,336 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.2.9/swagger-models-2.2.9-sources.jar
+2025-01-28 10:07:58,382 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/swagger/core/v3/swagger-models/2.2.9/swagger-models-2.2.9-sources.jar
+2025-01-28 10:07:58,393 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.swagger.core.v3:swagger-models:2.2.9
+2025-01-28 10:07:58,531 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/swagger-ui/4.18.2/swagger-ui-4.18.2-sources.jar
+2025-01-28 10:07:58,538 [Worker-42: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.webjars:swagger-ui:4.18.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:swagger-ui:jar:sources:4.18.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-28 10:07:58,785 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_lab/src/main/java
+2025-01-28 10:07:58,789 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_lab/src/main/resources
+2025-01-28 10:07:58,791 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_lab/src/main/resources
+2025-01-28 10:07:58,793 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_lab/src/test/java
+2025-01-28 10:07:58,795 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_lab/src/test/resources
+2025-01-28 10:08:00,459 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IPLREST/src/main/java
+2025-01-28 10:08:00,460 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IPLREST/src/main/resources
+2025-01-28 10:08:00,461 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IPLREST/src/main/resources
+2025-01-28 10:08:00,462 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IPLREST/src/test/java
+2025-01-28 10:08:00,463 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IPLREST/src/test/resources
+2025-01-28 10:08:01,019 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day17.1/src/main/java
+2025-01-28 10:08:01,020 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17.1/src/main/resources
+2025-01-28 10:08:01,021 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17.1/src/main/resources
+2025-01-28 10:08:01,021 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day17.1/src/test/java
+2025-01-28 10:08:01,022 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17.1/src/test/resources
+2025-01-28 10:08:02,473 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api/src/main/java
+2025-01-28 10:08:02,475 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api/src/main/resources
+2025-01-28 10:08:02,477 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api/src/main/resources
+2025-01-28 10:08:02,477 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api/src/test/java
+2025-01-28 10:08:02,479 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api/src/test/resources
+2025-01-28 10:08:03,206 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Patientmgs/src/main/java
+2025-01-28 10:08:03,208 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patientmgs/src/main/resources
+2025-01-28 10:08:03,208 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patientmgs/src/main/resources
+2025-01-28 10:08:03,209 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Patientmgs/src/test/java
+2025-01-28 10:08:03,210 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patientmgs/src/test/resources
+2025-01-28 10:08:04,017 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api1/src/main/java
+2025-01-28 10:08:04,019 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api1/src/main/resources
+2025-01-28 10:08:04,020 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api1/src/main/resources
+2025-01-28 10:08:04,021 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api1/src/test/java
+2025-01-28 10:08:04,023 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api1/src/test/resources
+2025-01-28 10:08:05,198 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo/src/main/java
+2025-01-28 10:08:05,199 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo/src/main/resources
+2025-01-28 10:08:05,200 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo/src/main/resources
+2025-01-28 10:08:05,200 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo/src/test/java
+2025-01-28 10:08:05,201 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo/src/test/resources
+2025-01-28 10:08:05,916 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test_spring/src/main/java
+2025-01-28 10:08:05,917 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /test_spring/src/main/resources
+2025-01-28 10:08:05,917 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test_spring/src/test/java
+2025-01-28 10:08:05,918 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /test_spring/src/test/resources
+2025-01-28 10:08:06,352 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_boot_backend_template/src/main/java
+2025-01-28 10:08:06,353 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_backend_template/src/main/resources
+2025-01-28 10:08:06,354 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_backend_template/src/main/resources
+2025-01-28 10:08:06,355 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_boot_backend_template/src/test/java
+2025-01-28 10:08:06,356 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_backend_template/src/test/resources
+2025-01-28 10:08:07,685 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day12.1/src/main/java
+2025-01-28 10:08:07,687 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day12.1/src/main/resources
+2025-01-28 10:08:07,687 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day12.1/src/test/java
+2025-01-28 10:08:07,689 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day12.1/src/test/resources
+2025-01-28 10:08:08,085 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_boot/src/main/java
+2025-01-28 10:08:08,089 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot/src/main/resources
+2025-01-28 10:08:08,093 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot/src/main/resources
+2025-01-28 10:08:08,093 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_boot/src/test/java
+2025-01-28 10:08:08,095 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot/src/test/resources
+2025-01-28 10:08:10,876 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.1/src/main/java
+2025-01-28 10:08:10,878 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.1/src/main/resources
+2025-01-28 10:08:10,880 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.1/src/main/resources
+2025-01-28 10:08:10,881 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.1/src/test/java
+2025-01-28 10:08:10,884 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.1/src/test/resources
+2025-01-28 10:08:12,103 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Studentmgs/src/main/java
+2025-01-28 10:08:12,105 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Studentmgs/src/main/resources
+2025-01-28 10:08:12,108 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Studentmgs/src/main/resources
+2025-01-28 10:08:12,109 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Studentmgs/src/test/java
+2025-01-28 10:08:12,111 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Studentmgs/src/test/resources
+2025-01-28 10:08:13,156 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.2/src/main/java
+2025-01-28 10:08:13,157 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.2/src/main/resources
+2025-01-28 10:08:13,158 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.2/src/main/resources
+2025-01-28 10:08:13,159 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.2/src/test/java
+2025-01-28 10:08:13,162 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.2/src/test/resources
+2025-01-28 10:08:14,133 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day19.1/src/main/java
+2025-01-28 10:08:14,134 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.1/src/main/resources
+2025-01-28 10:08:14,136 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.1/src/main/resources
+2025-01-28 10:08:14,136 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day19.1/src/test/java
+2025-01-28 10:08:14,137 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.1/src/test/resources
+2025-01-28 10:08:15,246 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.3/src/main/java
+2025-01-28 10:08:15,249 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.3/src/main/resources
+2025-01-28 10:08:15,251 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.3/src/main/resources
+2025-01-28 10:08:15,251 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.3/src/test/java
+2025-01-28 10:08:15,253 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.3/src/test/resources
+2025-01-28 10:08:16,385 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day19.2/src/main/java
+2025-01-28 10:08:16,386 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.2/src/main/resources
+2025-01-28 10:08:16,387 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.2/src/main/resources
+2025-01-28 10:08:16,388 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day19.2/src/test/java
+2025-01-28 10:08:16,389 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.2/src/test/resources
+2025-01-28 10:08:17,959 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Student/src/main/java
+2025-01-28 10:08:17,960 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Student/src/main/resources
+2025-01-28 10:08:17,961 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Student/src/main/resources
+2025-01-28 10:08:17,962 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Student/src/test/java
+2025-01-28 10:08:17,963 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Student/src/test/resources
+2025-01-28 10:08:19,891 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api2_new/src/main/java
+2025-01-28 10:08:19,893 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api2_new/src/main/resources
+2025-01-28 10:08:19,894 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api2_new/src/main/resources
+2025-01-28 10:08:19,895 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api2_new/src/test/java
+2025-01-28 10:08:19,896 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api2_new/src/test/resources
+2025-01-28 10:08:21,190 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auction/src/main/java
+2025-01-28 10:08:21,191 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auction/src/main/resources
+2025-01-28 10:08:21,192 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auction/src/main/resources
+2025-01-28 10:08:21,192 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auction/src/test/java
+2025-01-28 10:08:21,193 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auction/src/test/resources
+2025-01-28 10:08:22,151 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_boot2/src/main/java
+2025-01-28 10:08:22,152 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot2/src/main/resources
+2025-01-28 10:08:22,153 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot2/src/main/resources
+2025-01-28 10:08:22,153 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_boot2/src/test/java
+2025-01-28 10:08:22,155 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot2/src/test/resources
+2025-01-28 10:08:23,469 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day17_lab_REST/src/main/java
+2025-01-28 10:08:23,471 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17_lab_REST/src/main/resources
+2025-01-28 10:08:23,472 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17_lab_REST/src/main/resources
+2025-01-28 10:08:23,473 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day17_lab_REST/src/test/java
+2025-01-28 10:08:23,474 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17_lab_REST/src/test/resources
+2025-01-28 10:08:24,352 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_boot_template_mvc/src/main/java
+2025-01-28 10:08:24,354 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_template_mvc/src/main/resources
+2025-01-28 10:08:24,354 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_template_mvc/src/main/resources
+2025-01-28 10:08:24,354 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_boot_template_mvc/src/test/java
+2025-01-28 10:08:24,355 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_template_mvc/src/test/resources
+2025-01-28 10:08:25,366 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Patient/src/main/java
+2025-01-28 10:08:25,368 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patient/src/main/resources
+2025-01-28 10:08:25,369 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patient/src/main/resources
+2025-01-28 10:08:25,369 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Patient/src/test/java
+2025-01-28 10:08:25,371 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patient/src/test/resources
+2025-01-28 10:08:25,946 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 25 project(s) in 68 sec
+2025-01-28 10:08:28,015 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-28 10:08:40,148 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Auction:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Auction\pom.xml.
+2025-01-28 10:08:41,473 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Demo:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Demo\pom.xml.
+2025-01-28 10:08:42,183 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:IPLREST:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\IPLREST\pom.xml.
+2025-01-28 10:08:42,825 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Patient:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Patient\pom.xml.
+2025-01-28 10:08:43,138 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Patientmgs:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Patientmgs\pom.xml.
+2025-01-28 10:08:43,924 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Student:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Student\pom.xml.
+2025-01-28 10:08:44,493 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ipl:Studentmgs:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\Studentmgs\pom.xml.
+2025-01-28 10:08:44,792 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:day12.1:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\day12.1\pom.xml.
+2025-01-28 10:08:45,011 [Worker-24: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-01-28 10:08:45,297 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day16_boot:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day16-data\code\day16_boot\pom.xml.
+2025-01-28 10:08:46,233 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day16_boot2:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day16-data\code\day16_boot2\pom.xml.
+2025-01-28 10:08:46,504 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day16_lab:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day16_lab\pom.xml.
+2025-01-28 10:08:46,841 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blogs:day17.1:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\For STS 3\day17.1\pom.xml.
+2025-01-28 10:08:47,238 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day17_lab_REST:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\For STS 4\day17_lab_REST\pom.xml.
+2025-01-28 10:08:47,985 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day18.1:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day18-data\code\day18.1\pom.xml.
+2025-01-28 10:08:48,384 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day18.2:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day18-data\code\day18.2\pom.xml.
+2025-01-28 10:08:48,712 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day18.3:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day18-lab-data\day18.3\pom.xml.
+2025-01-28 10:08:49,095 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day19.1:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\day19.1\pom.xml.
+2025-01-28 10:08:49,442 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:day19.2:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\day19.2\pom.xml.
+2025-01-28 10:08:50,016 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iacsd:products-api:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\spring security projects\products-api\pom.xml.
+2025-01-28 10:08:50,540 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iacsd:products-api1:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\spring security projects\products-api1\pom.xml.
+2025-01-28 10:08:51,378 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.iacsd:products-api2_new:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\spring security projects\products-api2_new\pom.xml.
+2025-01-28 10:08:51,877 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring_boot_backend_template:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\REST template project for STS 3\spring_boot_backend_template\pom.xml.
+2025-01-28 10:08:52,475 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:spring_boot_template_mvc:0.0.1 @ C:\Users\pranav\Desktop\dacjavarest5\spring_boot_template_mvc\pom.xml.
+2025-01-28 10:08:52,962 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cdac:test_spring:0.0.1-SNAPSHOT @ C:\Users\pranav\Desktop\dacjavarest5\test_spring\pom.xml.
+2025-01-28 10:08:53,454 [Worker-24: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-01-28 10:09:08,892 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/swagger-ui/4.18.2/swagger-ui-4.18.2-javadoc.jar
+2025-01-28 10:09:09,331 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auction/src/main/java
+2025-01-28 10:09:09,333 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auction/src/main/resources
+2025-01-28 10:09:09,334 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auction/src/main/resources
+2025-01-28 10:09:09,335 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auction/src/test/java
+2025-01-28 10:09:09,337 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auction/src/test/resources
+2025-01-28 10:09:09,569 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/swagger-ui/4.18.2/swagger-ui-4.18.2-javadoc.jar
+2025-01-28 10:09:09,577 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.webjars:swagger-ui:4.18.2
+2025-01-28 10:09:10,151 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo/src/main/java
+2025-01-28 10:09:10,152 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo/src/main/resources
+2025-01-28 10:09:10,153 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo/src/main/resources
+2025-01-28 10:09:10,153 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo/src/test/java
+2025-01-28 10:09:10,154 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo/src/test/resources
+2025-01-28 10:09:11,222 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IPLREST/src/main/java
+2025-01-28 10:09:11,223 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IPLREST/src/main/resources
+2025-01-28 10:09:11,225 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IPLREST/src/main/resources
+2025-01-28 10:09:11,228 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IPLREST/src/test/java
+2025-01-28 10:09:11,230 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IPLREST/src/test/resources
+2025-01-28 10:09:12,037 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Patient/src/main/java
+2025-01-28 10:09:12,039 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patient/src/main/resources
+2025-01-28 10:09:12,043 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patient/src/main/resources
+2025-01-28 10:09:12,044 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Patient/src/test/java
+2025-01-28 10:09:12,045 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patient/src/test/resources
+2025-01-28 10:09:12,937 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Patientmgs/src/main/java
+2025-01-28 10:09:12,939 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patientmgs/src/main/resources
+2025-01-28 10:09:12,940 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patientmgs/src/main/resources
+2025-01-28 10:09:12,940 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Patientmgs/src/test/java
+2025-01-28 10:09:12,942 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Patientmgs/src/test/resources
+2025-01-28 10:09:13,709 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Student/src/main/java
+2025-01-28 10:09:13,710 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Student/src/main/resources
+2025-01-28 10:09:13,711 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Student/src/main/resources
+2025-01-28 10:09:13,713 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Student/src/test/java
+2025-01-28 10:09:13,715 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Student/src/test/resources
+2025-01-28 10:09:14,534 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Studentmgs/src/main/java
+2025-01-28 10:09:14,535 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Studentmgs/src/main/resources
+2025-01-28 10:09:14,535 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Studentmgs/src/main/resources
+2025-01-28 10:09:14,536 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Studentmgs/src/test/java
+2025-01-28 10:09:14,537 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Studentmgs/src/test/resources
+2025-01-28 10:09:15,383 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day12.1/src/main/java
+2025-01-28 10:09:15,384 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day12.1/src/main/resources
+2025-01-28 10:09:15,384 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day12.1/src/test/java
+2025-01-28 10:09:15,386 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day12.1/src/test/resources
+2025-01-28 10:09:15,882 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_boot/src/main/java
+2025-01-28 10:09:15,883 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot/src/main/resources
+2025-01-28 10:09:15,884 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot/src/main/resources
+2025-01-28 10:09:15,885 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_boot/src/test/java
+2025-01-28 10:09:15,885 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot/src/test/resources
+2025-01-28 10:09:17,069 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_boot2/src/main/java
+2025-01-28 10:09:17,070 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot2/src/main/resources
+2025-01-28 10:09:17,071 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot2/src/main/resources
+2025-01-28 10:09:17,071 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_boot2/src/test/java
+2025-01-28 10:09:17,072 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_boot2/src/test/resources
+2025-01-28 10:09:18,348 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_lab/src/main/java
+2025-01-28 10:09:18,349 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_lab/src/main/resources
+2025-01-28 10:09:18,349 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_lab/src/main/resources
+2025-01-28 10:09:18,350 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day16_lab/src/test/java
+2025-01-28 10:09:18,351 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day16_lab/src/test/resources
+2025-01-28 10:09:19,342 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day17.1/src/main/java
+2025-01-28 10:09:19,343 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17.1/src/main/resources
+2025-01-28 10:09:19,345 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17.1/src/main/resources
+2025-01-28 10:09:19,345 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day17.1/src/test/java
+2025-01-28 10:09:19,347 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17.1/src/test/resources
+2025-01-28 10:09:20,337 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day17_lab_REST/src/main/java
+2025-01-28 10:09:20,338 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17_lab_REST/src/main/resources
+2025-01-28 10:09:20,338 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17_lab_REST/src/main/resources
+2025-01-28 10:09:20,338 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day17_lab_REST/src/test/java
+2025-01-28 10:09:20,339 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day17_lab_REST/src/test/resources
+2025-01-28 10:09:21,034 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.1/src/main/java
+2025-01-28 10:09:21,034 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.1/src/main/resources
+2025-01-28 10:09:21,035 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.1/src/main/resources
+2025-01-28 10:09:21,035 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.1/src/test/java
+2025-01-28 10:09:21,036 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.1/src/test/resources
+2025-01-28 10:09:21,650 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.2/src/main/java
+2025-01-28 10:09:21,651 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.2/src/main/resources
+2025-01-28 10:09:21,651 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.2/src/main/resources
+2025-01-28 10:09:21,652 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.2/src/test/java
+2025-01-28 10:09:21,652 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.2/src/test/resources
+2025-01-28 10:09:22,332 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.3/src/main/java
+2025-01-28 10:09:22,334 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.3/src/main/resources
+2025-01-28 10:09:22,335 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.3/src/main/resources
+2025-01-28 10:09:22,335 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day18.3/src/test/java
+2025-01-28 10:09:22,336 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day18.3/src/test/resources
+2025-01-28 10:09:22,890 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day19.1/src/main/java
+2025-01-28 10:09:22,890 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.1/src/main/resources
+2025-01-28 10:09:22,891 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.1/src/main/resources
+2025-01-28 10:09:22,891 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day19.1/src/test/java
+2025-01-28 10:09:22,892 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.1/src/test/resources
+2025-01-28 10:09:23,461 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day19.2/src/main/java
+2025-01-28 10:09:23,463 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.2/src/main/resources
+2025-01-28 10:09:23,464 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.2/src/main/resources
+2025-01-28 10:09:23,464 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day19.2/src/test/java
+2025-01-28 10:09:23,466 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /day19.2/src/test/resources
+2025-01-28 10:09:24,081 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api/src/main/java
+2025-01-28 10:09:24,082 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api/src/main/resources
+2025-01-28 10:09:24,082 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api/src/main/resources
+2025-01-28 10:09:24,083 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api/src/test/java
+2025-01-28 10:09:24,083 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api/src/test/resources
+2025-01-28 10:09:24,656 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api1/src/main/java
+2025-01-28 10:09:24,657 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api1/src/main/resources
+2025-01-28 10:09:24,658 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api1/src/main/resources
+2025-01-28 10:09:24,658 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api1/src/test/java
+2025-01-28 10:09:24,659 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api1/src/test/resources
+2025-01-28 10:09:25,205 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api2_new/src/main/java
+2025-01-28 10:09:25,207 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api2_new/src/main/resources
+2025-01-28 10:09:25,208 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api2_new/src/main/resources
+2025-01-28 10:09:25,208 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /products-api2_new/src/test/java
+2025-01-28 10:09:25,209 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /products-api2_new/src/test/resources
+2025-01-28 10:09:25,704 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_boot_backend_template/src/main/java
+2025-01-28 10:09:25,705 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_backend_template/src/main/resources
+2025-01-28 10:09:25,705 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_backend_template/src/main/resources
+2025-01-28 10:09:25,706 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_boot_backend_template/src/test/java
+2025-01-28 10:09:25,706 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_backend_template/src/test/resources
+2025-01-28 10:09:26,555 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_boot_template_mvc/src/main/java
+2025-01-28 10:09:26,556 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_template_mvc/src/main/resources
+2025-01-28 10:09:26,557 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_template_mvc/src/main/resources
+2025-01-28 10:09:26,557 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_boot_template_mvc/src/test/java
+2025-01-28 10:09:26,558 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring_boot_template_mvc/src/test/resources
+2025-01-28 10:09:27,376 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test_spring/src/main/java
+2025-01-28 10:09:27,376 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /test_spring/src/main/resources
+2025-01-28 10:09:27,376 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test_spring/src/test/java
+2025-01-28 10:09:27,377 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /test_spring/src/test/resources
+2025-01-28 10:09:31,259 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 24 poms: local refresh takes 0.00 sec, refresh facades takes 40.00 sec, update config takes 18.00 sec 
+2025-01-28 10:09:33,768 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:33,810 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:33,820 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\Auction\src\test\resources
+2025-01-28 10:09:35,066 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:35,103 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:35,110 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\Demo\src\test\resources
+2025-01-28 10:09:35,714 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:35,747 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:35,753 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\IPLREST\src\test\resources
+2025-01-28 10:09:36,104 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:36,130 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:36,136 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\Patient\src\test\resources
+2025-01-28 10:09:37,366 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:37,524 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:37,531 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\Patientmgs\src\test\resources
+2025-01-28 10:09:37,956 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:37,982 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:37,990 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\Student\src\test\resources
+2025-01-28 10:09:38,456 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:38,482 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:38,489 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\Studentmgs\src\test\resources
+2025-01-28 10:09:38,998 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-28 10:09:39,001 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:39,019 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-28 10:09:39,020 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 10:09:40,251 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:40,252 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:40,252 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-28 10:09:40,270 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-01-28 10:09:40,275 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:40,275 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:40,275 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day16-data\code\day16_boot\src\test\resources
+2025-01-28 10:09:41,529 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:41,529 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:41,530 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-28 10:09:41,560 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-01-28 10:09:41,569 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:41,569 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:41,570 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day16-data\code\day16_boot2\src\test\resources
+2025-01-28 10:09:42,385 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:42,385 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:42,386 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-28 10:09:42,416 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-01-28 10:09:42,422 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:42,422 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:42,422 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day16_lab\src\test\resources
+2025-01-28 10:09:43,411 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:43,411 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:43,411 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-28 10:09:43,440 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-28 10:09:43,459 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:43,459 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:43,459 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\For STS 3\day17.1\src\test\resources
+2025-01-28 10:09:44,143 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:44,166 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:44,185 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\For STS 4\day17_lab_REST\src\test\resources
+2025-01-28 10:09:44,859 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:44,890 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:44,895 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day18-data\code\day18.1\src\test\resources
+2025-01-28 10:09:45,516 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:45,544 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:45,550 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day18-data\code\day18.2\src\test\resources
+2025-01-28 10:09:46,293 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:46,317 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:46,326 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day18-lab-data\day18.3\src\test\resources
+2025-01-28 10:09:47,062 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:47,079 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:47,085 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\day19.1\src\test\resources
+2025-01-28 10:09:47,832 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:47,859 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:47,866 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\day19.2\src\test\resources
+2025-01-28 10:09:48,318 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:48,342 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:48,348 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\spring security projects\products-api\src\test\resources
+2025-01-28 10:09:48,930 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:48,957 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:48,970 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\spring security projects\products-api1\src\test\resources
+2025-01-28 10:09:49,586 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-28 10:09:49,617 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:49,626 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day19-data\code\spring security projects\products-api2_new\src\test\resources
+2025-01-28 10:09:50,323 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:50,323 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:50,324 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-28 10:09:50,350 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-01-28 10:09:50,358 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:50,358 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:50,359 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\day17-data\code\REST template project for STS 3\spring_boot_backend_template\src\test\resources
+2025-01-28 10:09:50,867 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:50,868 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:50,868 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-28 10:09:50,886 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-01-28 10:09:50,893 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-28 10:09:50,893 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-01-28 10:09:50,893 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pranav\Desktop\dacjavarest5\spring_boot_template_mvc\src\test\resources
+2025-01-28 10:09:50,951 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-28 10:09:50,953 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 10:09:50,957 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-28 10:09:50,959 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
